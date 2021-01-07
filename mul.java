@@ -1,1 +1,1 @@
-this is mul java file.
+this is multiplication java file.
